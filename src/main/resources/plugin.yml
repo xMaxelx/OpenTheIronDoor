@@ -1,0 +1,5 @@
+name: OpenTheIronDoor
+version: '${project.version}'
+main: de.max.opentheirondoor.Opentheirondoor
+api-version: 1.17
+authors: [ xMaxelx ]
